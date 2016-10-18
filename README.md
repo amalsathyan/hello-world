@@ -2,4 +2,4 @@
 Hi Humans
 
 Learning how to use GitHUb
-I have making familiar myself with the new world of technology
+I am making myself familiar with the new world of technology
